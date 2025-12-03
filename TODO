@@ -1,2 +1,4 @@
-- don't use any stdio in siml.h
-- allow empty keywords on items esp below literal blocks
+- [x] allow empty keywords on items esp below literal blocks
+- [ ] don't use any stdio in siml.h
+- [ ] duplicate fields/keys ????
+- [ ] reduce impl significantly !!!
